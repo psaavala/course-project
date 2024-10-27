@@ -1,7 +1,6 @@
-import { useState } from 'react'
 import MyHeader from './header.jsx'
 import pigpic from './pig.png'
-import ProductForm from './productform.jsx'
+import ProductForm from './ProductForm.jsx'
 
 
 function App() {
